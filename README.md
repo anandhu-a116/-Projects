@@ -1,5 +1,11 @@
 # -Projects
-Company customer satisfaction risk analyics
+Welcome! I am a Data Analyst focused on uncovering actionable insights through statistical modeling, database management, and interactive storytelling.Here as some of the project and analyics i have done.
 
-using power bi and DAX queries to solve the issue faced by a company for customer satisfaction in different area like accident while driving,trip cancel etc.
+ Tech Skills
+Languages: Python (Pandas, NumPy, Scikit-Learn), SQL (MS SQL Server).
+
+Visualization: Power BI, Microsoft Excel (Advanced), Matplotlib/Seaborn.
+
+Tools: Docker, Git/GitHub, Jupyter Notebooks
+
 
